@@ -1,6 +1,6 @@
 # Análise-de-vendas Power Bi
 
-Projeto desenvolvido em Power BI:<a href="https://app.powerbi.com/view?r=eyJrIjoiNGQwNmNlY2EtNWJhYy00ODhkLWJkYzUtODE0MWVkYTlkZjQ3IiwidCI6ImIzMDdiODEyLTUwYWMtNDI0My1iNDNiLThlM2YzYzljODRlNSJ9&pageName=ReportSection"> PROJETO ON-LINE</a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNGQwNmNlY2EtNWJhYy00ODhkLWJkYzUtODE0MWVkYTlkZjQ3IiwidCI6ImIzMDdiODEyLTUwYWMtNDI0My1iNDNiLThlM2YzYzljODRlNSJ9&pageName=ReportSection"> Análise de vendas Desenvolvido com Power Bi:</a>
 
 Criado a fim de aprimorar conhecimentos em ETL, Cálculos e Modelagem. Utilizando Power Query, DAX e relacionamento de tabelas. É possível identificar custo médio, margem de venda, faturamento por períodos. Trazendo mais clareza e precisão nas análises.
 
